@@ -1,7 +1,6 @@
-I used the python3 environment provided for the project.
+Using Motion History Image algorithm to perform activity classification in video. My algorithm take in a video of a human walking, jogging, running, boxing, waving or clapping, and correctly classify the behavior.
 
 To run the code, just run the main.py file.
-
 
 Notice how the preprocessing phase is optional, as I alredy provided that phase outcome.
 If you would like to run the preprocessing phase, you will need to provide the input videos in the input folder with each action in its own sub-directory.
