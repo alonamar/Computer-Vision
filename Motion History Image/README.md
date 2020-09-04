@@ -12,7 +12,7 @@ Also notice to the prints of the program, as it shows some of the information.
  - https://bluejeans.com/s/4IAMY/
  - https://www.youtube.com/watch?v=z5uLnVTAOk0&feature=youtu.be 
 * Action Classification
-Tau frame action1 <br> https://www.youtube.com/watch?v=wWlFUr-an4A&feature=youtu.be
-* Tau frame action2 <br> https://www.youtube.com/watch?v=WnVDtLO33Yc&feature=youtu.be
-* Full frame action1 <br> https://www.youtube.com/watch?v=eBA9KgtYttc&feature=youtu.be
-* Full frame action2 <br> https://www.youtube.com/watch?v=0ugY5cU40-A&feature=youtu.be
+ * Tau frame action1 <br> https://www.youtube.com/watch?v=wWlFUr-an4A&feature=youtu.be
+ * Tau frame action2 <br> https://www.youtube.com/watch?v=WnVDtLO33Yc&feature=youtu.be
+ * Full frame action1 <br> https://www.youtube.com/watch?v=eBA9KgtYttc&feature=youtu.be
+ * Full frame action2 <br> https://www.youtube.com/watch?v=0ugY5cU40-A&feature=youtu.be
